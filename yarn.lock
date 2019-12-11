@@ -124,12 +124,12 @@
     universal-user-agent "^2.0.0"
     url-template "^2.0.8"
 
-"@tippy.js/react@^2.2.2":
-  version "2.2.2"
-  resolved "https://registry.yarnpkg.com/@tippy.js/react/-/react-2.2.2.tgz#a0fbc646958cdb002d7d227f7b18dca346c76f2e"
+"@tippy.js/react@^3.1.1":
+  version "3.1.1"
+  resolved "https://registry.yarnpkg.com/@tippy.js/react/-/react-3.1.1.tgz#027e4595e55f31430741fe8e0d92aaddfbe47efd"
   dependencies:
     prop-types "^15.6.2"
-    tippy.js "^4.3.4"
+    tippy.js "^5.1.1"
 
 "@tommoor/remove-markdown@0.3.1":
   version "0.3.1"
@@ -6595,9 +6595,9 @@ polished@1.2.1:
   version "1.2.1"
   resolved "https://registry.yarnpkg.com/polished/-/polished-1.2.1.tgz#83c18a85bf9d7023477cfc7049763b657d50f0f7"
 
-popper.js@^1.14.7:
-  version "1.15.0"
-  resolved "https://registry.yarnpkg.com/popper.js/-/popper.js-1.15.0.tgz#5560b99bbad7647e9faa475c6b8056621f5a4ff2"
+popper.js@^1.16.0:
+  version "1.16.0"
+  resolved "https://registry.yarnpkg.com/popper.js/-/popper.js-1.16.0.tgz#2e1816bcbbaa518ea6c2e15a466f4cb9c6e2fbb3"
 
 posix-character-classes@^0.1.0:
   version "0.1.1"
@@ -8409,11 +8409,11 @@ tiny-warning@^0.0.3:
   version "0.0.3"
   resolved "https://registry.yarnpkg.com/tiny-warning/-/tiny-warning-0.0.3.tgz#1807eb4c5f81784a6354d58ea1d5024f18c6c81f"
 
-tippy.js@^4.3.4:
-  version "4.3.4"
-  resolved "https://registry.yarnpkg.com/tippy.js/-/tippy.js-4.3.4.tgz#9a91fd5ce8c401f181b7adaa6b2c27f3d105f3ba"
+tippy.js@^5.1.1:
+  version "5.1.2"
+  resolved "https://registry.yarnpkg.com/tippy.js/-/tippy.js-5.1.2.tgz#5ac91233c59ab482ef5988cffe6e08bd26528e66"
   dependencies:
-    popper.js "^1.14.7"
+    popper.js "^1.16.0"
 
 title-case@^2.1.0:
   version "2.1.1"

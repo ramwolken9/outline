@@ -55,7 +55,7 @@
     "url": "git+ssh://git@github.com/outline/outline.git"
   },
   "dependencies": {
-    "@tippy.js/react": "^2.2.2",
+    "@tippy.js/react": "^3.1.1",
     "@tommoor/remove-markdown": "0.3.1",
     "autotrack": "^2.4.1",
     "aws-sdk": "^2.135.0",
